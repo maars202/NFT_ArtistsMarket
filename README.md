@@ -6,8 +6,11 @@ Hardhat was used for handling ethereum smart contracts. The smart contracts were
 Check out an example at https://main.d12layvlh21wx4.amplifyapp.com/. Please use a browser with metamask connected to a ropsten address. 
 
 ## Available Scripts
-
-In the project directory, you can run:
+In the project directory, install all dependencies by running:
+```
+npm i
+```
+To get your own blockchain node running, you can run:
 ```
 npx hardhat node 
 ```
